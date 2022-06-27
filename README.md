@@ -6,4 +6,4 @@
 
 I think the title is self explanatory. 
 
-Created to practice Vue and more API / Promises / Async & Await
+Created to practice **Vue, Tailwind** and more API / Promises / Async & Await
